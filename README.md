@@ -16,6 +16,6 @@ To find the source code, look in <strong><em> /src </strong></em> <br>
 <p> Here are a couple of models from the analysis <br>
 </p>
 
-![test](png/model1.png)
+![](png/model1.png)
 
 ![](png/model3.png)
